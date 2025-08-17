@@ -1,0 +1,9 @@
+# Minimal local environment (no heavy geospatial stack)
+earthengine-api>=0.1.400
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+folium>=0.14
+jupyterlab>=4.0
+python-dotenv>=1.0
+requests>=2.31
