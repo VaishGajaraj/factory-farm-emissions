@@ -57,7 +57,7 @@ Map.addLayer(region, {color: '000000'}, 'Chesapeake bbox', false);
 
 // Time series chart over region mean
 var chart = ui.Chart.image.series({
-  imageCollection: monthlyCol,
+  imageCollection: monthlyCol.select('CH4_column_volume_mixing_ratio_dry_air_bias_corrected_mean'),
   region: region,
   reducer: ee.Reducer.mean(),
   scale: 20000,
