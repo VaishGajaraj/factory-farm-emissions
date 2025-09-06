@@ -1,0 +1,21 @@
+facility_id,name,lat,lon,state,county,type,animal_units,company,isolation_km,notes
+MD_DAIRY_001,Chesapeake Gold Dairy,38.521,-75.823,MD,Somerset,dairy,2500,Independent,12.3,Large isolated dairy operation
+MD_DAIRY_002,Eastern Shore Farms,38.234,-76.456,MD,Dorchester,dairy,1800,Independent,8.7,Medium dairy with lagoon system
+MD_POULTRY_001,Delmarva Poultry Complex A,38.745,-75.234,MD,Wicomico,poultry,125000,Perdue,15.2,Major poultry integrator facility
+MD_POULTRY_002,Somerset Broiler Farm,38.123,-75.987,MD,Somerset,poultry,75000,Tyson,9.8,Contract grower operation
+MD_BEEF_001,Chesapeake Cattle Co,38.876,-76.123,MD,Caroline,beef,1500,Independent,11.5,Feedlot operation
+DE_POULTRY_001,Sussex Poultry Farm A,38.654,-75.345,DE,Sussex,poultry,100000,Mountaire,14.7,Large broiler operation
+DE_POULTRY_002,Georgetown Chicken Farm,38.707,-75.385,DE,Sussex,poultry,80000,Perdue,7.2,Contract facility
+DE_DAIRY_001,First State Dairy,38.892,-75.527,DE,Kent,dairy,3200,Independent,16.8,Largest dairy in Delaware
+DE_SWINE_001,Delaware Pork Producers,38.756,-75.234,DE,Sussex,swine,5000,Independent,13.4,Major swine operation
+VA_POULTRY_001,Accomack Broilers,37.876,-75.632,VA,Accomack,poultry,90000,Tyson,18.3,Eastern Shore operation
+VA_POULTRY_002,Northampton Farms,37.234,-75.987,VA,Northampton,poultry,65000,Perdue,10.5,Mid-size broiler farm
+VA_DAIRY_001,Virginia Eastern Dairy,37.567,-76.234,VA,Northumberland,dairy,2200,Independent,9.3,Historic dairy operation
+MD_POULTRY_003,Queen Anne's Poultry,39.049,-76.068,MD,Queen Anne's,poultry,55000,Independent,11.8,Family-owned operation
+MD_DAIRY_003,Talbot County Dairy,38.773,-76.175,MD,Talbot,dairy,1600,Independent,8.1,Organic dairy farm
+DE_POULTRY_003,Milford Chicken Complex,38.915,-75.428,DE,Kent,poultry,70000,Allen Harim,12.6,Regional producer
+MD_MIXED_001,Diversified Farms LLC,38.456,-75.678,MD,Worcester,mixed,3500,Independent,7.5,Dairy and poultry
+DE_BEEF_001,Sussex Beef Operations,38.545,-75.139,DE,Sussex,beef,1200,Independent,14.2,Grass-fed operation
+VA_MIXED_001,Tidewater Agricultural,37.789,-76.345,VA,Lancaster,mixed,2800,Independent,15.7,Dairy and beef
+MD_SWINE_001,Maryland Pork Farm,38.234,-76.789,MD,Dorchester,swine,3000,Independent,10.2,Farrow-to-finish
+DE_POULTRY_004,Laurel Broiler Farm,38.557,-75.571,DE,Sussex,poultry,85000,Perdue,9.1,Modern tunnel ventilation

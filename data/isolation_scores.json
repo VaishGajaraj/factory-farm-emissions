@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "total_facilities": 20,
+    "isolated_count": 13,
+    "avg_isolation_km": 11.844999999999997
+  },
+  "scores": {
+    "MD_DAIRY_001": {
+      "name": "Chesapeake Gold Dairy",
+      "isolation_km": 12.3,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "MD_DAIRY_002": {
+      "name": "Eastern Shore Farms",
+      "isolation_km": 8.7,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "MD_POULTRY_001": {
+      "name": "Delmarva Poultry Complex A",
+      "isolation_km": 15.2,
+      "isolation_score": 1.0,
+      "is_isolated": true
+    },
+    "MD_POULTRY_002": {
+      "name": "Somerset Broiler Farm",
+      "isolation_km": 9.8,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "MD_BEEF_001": {
+      "name": "Chesapeake Cattle Co",
+      "isolation_km": 11.5,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "DE_POULTRY_001": {
+      "name": "Sussex Poultry Farm A",
+      "isolation_km": 14.7,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "DE_POULTRY_002": {
+      "name": "Georgetown Chicken Farm",
+      "isolation_km": 7.2,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "DE_DAIRY_001": {
+      "name": "First State Dairy",
+      "isolation_km": 16.8,
+      "isolation_score": 1.0,
+      "is_isolated": true
+    },
+    "DE_SWINE_001": {
+      "name": "Delaware Pork Producers",
+      "isolation_km": 13.4,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "VA_POULTRY_001": {
+      "name": "Accomack Broilers",
+      "isolation_km": 18.3,
+      "isolation_score": 1.0,
+      "is_isolated": true
+    },
+    "VA_POULTRY_002": {
+      "name": "Northampton Farms",
+      "isolation_km": 10.5,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "VA_DAIRY_001": {
+      "name": "Virginia Eastern Dairy",
+      "isolation_km": 9.3,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "MD_POULTRY_003": {
+      "name": "Queen Anne's Poultry",
+      "isolation_km": 11.8,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "MD_DAIRY_003": {
+      "name": "Talbot County Dairy",
+      "isolation_km": 8.1,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "DE_POULTRY_003": {
+      "name": "Milford Chicken Complex",
+      "isolation_km": 12.6,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "MD_MIXED_001": {
+      "name": "Diversified Farms LLC",
+      "isolation_km": 7.5,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    },
+    "DE_BEEF_001": {
+      "name": "Sussex Beef Operations",
+      "isolation_km": 14.2,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "VA_MIXED_001": {
+      "name": "Tidewater Agricultural",
+      "isolation_km": 15.7,
+      "isolation_score": 1.0,
+      "is_isolated": true
+    },
+    "MD_SWINE_001": {
+      "name": "Maryland Pork Farm",
+      "isolation_km": 10.2,
+      "isolation_score": 0.8,
+      "is_isolated": true
+    },
+    "DE_POULTRY_004": {
+      "name": "Laurel Broiler Farm",
+      "isolation_km": 9.1,
+      "isolation_score": 0.5,
+      "is_isolated": false
+    }
+  }
+}
